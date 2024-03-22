@@ -6,3 +6,5 @@ conda activate streamlit-env
 pip install -r requirements.txt
 ```
 
+# Created ML Model to predict loan approval/rejection
+# Prototyped frontend using streamlit library to emulate webapp interface
